@@ -1,0 +1,22 @@
+{
+  "name": "craigs-list-scraper",
+  "version": "1.0.0",
+  "description": "Scraper App for Craigs List with Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samabadvie/Craigs-List-Scraper.git"
+  },
+  "author": "Sama Badvie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samabadvie/Craigs-List-Scraper/issues"
+  },
+  "homepage": "https://github.com/samabadvie/Craigs-List-Scraper#readme",
+  "dependencies": {
+    "puppeteer": "^15.3.1"
+  }
+}
